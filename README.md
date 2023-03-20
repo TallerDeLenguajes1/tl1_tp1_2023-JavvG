@@ -15,8 +15,8 @@ Es importante crear el archivo _.gitignore_ tan pronto se inicie un nuevo proyec
 
 Para configurar el archivo _.gitignore_ deben seguirse los siguientes pasos: 
 
-**1.** Crear un archivo _.gitignore_ en el repositorio.
-**2.** Abrir el archivo antes creado en un editor de texto.
-**3.** Agregar las reglas para los archivos que deben ignorarse. Esto se realiza agregando una línea que contenga el nombre del archivo que debe ignorarse.
-**4.** Guardar el archivo _.gitignore_.
+1. Crear un archivo _.gitignore_ en el repositorio.
+2. Abrir el archivo antes creado en un editor de texto.
+3. Agregar las reglas para los archivos que deben ignorarse. Esto se realiza agregando una línea que contenga el nombre del archivo que debe ignorarse.
+4. Guardar el archivo _.gitignore_.
 
