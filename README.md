@@ -1,7 +1,7 @@
 ##### PREGUNTAS TRABAJO PRÁCTICO NRO.1 
 ### PUNTO 2.a
 
-_a) ¿Por qué es conveniente incluir el archivo **.gitignore**_
+_a) ¿Por qué es conveniente incluir el archivo **.gitignore**?_
 
 Es conveniente incluir el archivo _.gitignore_ porque le permite a los desarrolladores especificar qué archivos o carpetas se deben ignorar en el control de versiones de Git. Es decir, los archivos especificados en _.gitignore_ no serán añadidos al repositorio ni se serán incluidos en las confirmaciones (commits). Esto resulta útil cuando algunos archivos contienen información sensible (como contraseñas, datos personales, configuraciones, etc.) y que no deben ser compartidos en un repositorio de alcance público, o que simplemente no sean relevantes o necesarios para el proyecto en cuestión.
 
