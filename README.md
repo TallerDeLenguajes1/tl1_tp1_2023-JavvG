@@ -20,3 +20,9 @@ Para configurar el archivo _.gitignore_ deben seguirse los siguientes pasos:
 3. Agregar las reglas para los archivos que deben ignorarse. Esto se realiza agregando una línea que contenga el nombre del archivo que debe ignorarse.
 4. Guardar el archivo _.gitignore_.
 
+
+## PUNTO 3.g
+
+- El resultado de los apartados _2)_ y _3)_ es el mismo, ya que la dirección de memoria de la variable **num** sigue siendo la misma y el puntero **p_num** apunta a esa misma dirección de memoria **&num**.
+
+- En el apartado _4)_, se obtiene la dirección de memoria del puntero, **&p_num**, que es diferente a la dirección de memoria de la variable (**&num**) y al puntero, ya que el puntero también ocupa su propia dirección de memoria.
